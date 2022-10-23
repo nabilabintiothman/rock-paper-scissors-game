@@ -1,0 +1,1 @@
+This is a mini-Python project called command-line Rock, Paper, Scissors game that I did while following tutorials on Youtube.
